@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-hello mitro
-mnnju kumari....................................................................................
-=======
-hello mitro
->>>>>>> parent of 94443b6... Revert "added files"
+
+hello mitro jiiiii.................
+
