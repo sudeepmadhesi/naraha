@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 
 pyar kiya hai to darana kya 
 
-=======
-pyar kiya  darana kya kya hai jee fdgggghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
->>>>>>> origin/sonam
+
